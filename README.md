@@ -13,6 +13,7 @@ I am a data science professional who has an eclectic career filled with project 
 - Data sonificaiton [Read more here](https://dlab.berkeley.edu/news/stumbling-upon-data-sonification-when-i-fused-my-passion-music-coding)
 - Making music with code
 - Data visualization: You don't need to be the most prolific songwriter to earn the most streams on Spotify [See here](https://public.tableau.com/app/profile/franny/viz/Spotify2021Top200/Dashboard1)
+- Data visualization: What time of the day and what day of the week am I most active on twitter? [See here](https://public.tableau.com/app/profile/franny/viz/Mytweetsaroundtheclock/Dashboard1)
 
 ### 💬 Ask me about
 - Python programming
