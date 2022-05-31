@@ -2,7 +2,7 @@
 
 Thanks for stopping by Github. You have entered a sandbox zone where I share things that I have been building and exploring.
 
-### 👧🏻 Who am I
+### 👩🏻‍🔬 Who am I
 
 I am a data science professional who has an eclectic career filled with project experiences across engineering, management consulting and most recently, data analytics and digital transformation. Upkeeping my tech fluency requires me to continuously learn new things, break some things, make a few mistakes along the way and start all over again. As Bob Ross would say: "Mistakes are just happy incidents." 
 
