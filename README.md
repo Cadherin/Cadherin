@@ -16,7 +16,7 @@ I am a data science professional who has an eclectic career filled with project 
   - [You don't need to be the most prolific songwriter to earn the most streams on Spotify](https://public.tableau.com/app/profile/franny/viz/Spotify2021Top200/Dashboard1)
   - [Crimes by offence type in Canadian provinces](https://public.tableau.com/app/profile/franny/viz/CrimesinCanadianProvinces1962-2000/CrimeDashboard)
   - [Toronto paramedics transport statistics](https://public.tableau.com/app/profile/franny/viz/paramedics_transport/Dashboard1)
-  - - [What time of the day and what day of the week am I most active on twitter](https://public.tableau.com/app/profile/franny/viz/Mytweetsaroundtheclock/Dashboard1)
+  - [What time of the day and what day of the week am I most active on twitter](https://public.tableau.com/app/profile/franny/viz/Mytweetsaroundtheclock/Dashboard1)
 
 ### 💬 Ask me about
 - Python programming
