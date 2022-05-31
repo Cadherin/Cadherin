@@ -13,10 +13,9 @@ I am a data science professional who has an eclectic career filled with project 
 - Data sonificaiton [Read more here](https://dlab.berkeley.edu/news/stumbling-upon-data-sonification-when-i-fused-my-passion-music-coding)
 - Making music with code
 - Data visualization: 
-  - [You don't need to be the most prolific songwriter to earn the most streams on Spotify(https://public.tableau.com/app/profile/franny/viz/Spotify2021Top200/Dashboard1)
-  - [What time of the day and what day of the week am I most active on twitter?](https://public.tableau.com/app/profile/franny/viz/Mytweetsaroundtheclock/Dashboard1
-  - []()
-  
+  - [You don't need to be the most prolific songwriter to earn the most streams on Spotify](https://public.tableau.com/app/profile/franny/viz/Spotify2021Top200/Dashboard1)
+  - [What time of the day and what day of the week am I most active on twitter](https://public.tableau.com/app/profile/franny/viz/Mytweetsaroundtheclock/Dashboard1)
+  - [Crimes by offence type in Canadian provinces](https://public.tableau.com/app/profile/franny/viz/CrimesinCanadianProvinces1962-2000/CrimeDashboard)
 
 ### 💬 Ask me about
 - Python programming
