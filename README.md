@@ -8,7 +8,7 @@ I am a data science professional who has an eclectic career filled with project 
 
 ### 🧪 What I have been working on
 
-- Geospatial analysis:[Sinkhole Risk Intelligence](https://www.arcgis.com/apps/dashboards/deb927fddf9c46f8a4dbed9dfd34ecd4)
+- Geospatial analysis: [Sinkhole Risk Intelligence](https://www.arcgis.com/apps/dashboards/deb927fddf9c46f8a4dbed9dfd34ecd4)
 - [Facial keypoint detection](https://github.com/hannah144/_facial_keypoint_detection)
 - Field experiment to investigate discrimination in the rental housing market [View an interactive map built](https://www.google.com/maps/d/u/0/edit?mid=1TvWV2dGcDC-7EQQ6zdbuynnPPOB055H7&usp=sharing)
 - Data sonificaiton [Read more here](https://dlab.berkeley.edu/news/stumbling-upon-data-sonification-when-i-fused-my-passion-music-coding)
